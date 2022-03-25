@@ -6,5 +6,5 @@ git remote add origin https://github.com/Jholandry/SAYNA---HTML-CSS-exercice2.gi
 git push -u origin main
 
 git add .
-git commit -m"2nd commit bt jl"
+git commit -m"3rd commit bt jl"
 git push -u origin main
