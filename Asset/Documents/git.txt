@@ -1,6 +1,10 @@
 git init
 git add .
-git commit -m "first commit"
+git commit -m "1st commit bt jl"
 git branch -M main
 git remote add origin https://github.com/Jholandry/SAYNA---HTML-CSS-exercice2.git
+git push -u origin main
+
+git add .
+git commit -m"2nd commit bt jl"
 git push -u origin main
